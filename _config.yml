@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kaijie Xiao Personal Page"
+title                    : "Kaijie Xiao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Kaijie Xiao"
-description              : &description "2nd year PhD"
+description              : &description "2nd year PhD at ZJU"
 url                      : https://xiaokj37.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaokj37/xiaokj37.github.io"
@@ -22,8 +22,8 @@ repository               : "xiaokj37/xiaokj37.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Kaijie Xiao"
+  avatar           : "prof_pic.png"
+  name             : "Kaijie Xiao (肖凯杰)"
   pronouns         : # example: "she/her"  
   bio              : "2nd year PhD"
   location         : "Hangzhou, Zhejiang"
