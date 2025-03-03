@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I'm currently a 1st year PhD student in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn), and expected to get the PhD degree in 2028. I'm co-advised by [Prof. Wei Dong (董玮)](https://dongw.emnets.cn/) and [Prof. Yi Gao (高艺)](https://person.zju.edu.cn/gaoyi). Prior to that, I received my B.E. degree from the [School of Computer Science and Engineering](https://cse.seu.edu.cn/) in [Southeast University (SEU)](https://www.seu.edu.cn/), Nanjing, 2023, advised by [Prof. Fang Dong (东方)](https://cs.seu.edu.cn/fdong/main.htm).
+
+My research interests mainly focus on _IoT Systems_, _Edge Computing_, and _LLM_.
+
+E-mail: xiaokj [at] zju [dot] edu [dot] cn
+
+Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/)
+![image](https://github.com/user-attachments/assets/7cb37b7b-39a4-4b6b-9e43-3bce71d0ba8b)
+
 
 A data-driven personal website
 ======
