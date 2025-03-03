@@ -16,7 +16,11 @@ E-mail: xiaokj [at] zju [dot] edu [dot] cn
 Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/)
 
 ## News
+- **[July 2024]** Attended **[UbiComp 2024]** held in Melbourne, Australia. [[Conference Link]](https://www.ubicomp.org/ubicomp-iswc-2024/).
+- **[Sep 2024]** Our Paper: "**[ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization]**" is accepted by **[IMWUT 2024]** and will be presented at **[UbiComp 2025]**.
+- **[July 2024]** Our Paper: "**[ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs]**" is accepted by **[IMWUT 2024]** and will be presented at **[UbiComp 2024]**.
 - **[Sep 2023]** Joined ZJU EmNets Lab as a PhD researcher.
 
 ## Publications
-- **Kaijie Xiao**, Yi Gao, Wei Dong.
+- **Kaijie Xiao**, Yi Gao, Fu Li, Weifeng Xu, Pengzhi Chen and Wei Dong, ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization, accepted to ACM IMWUT 2024 and Ubicomp 2025(<span style="color:red">CCF A</span>).
+- Yi Gao, **Kaijie Xiao**, Fu Li, Weifeng Xu, Jiaming Huang and Wei Dong, ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs, accepted to ACM IMWUT/Ubicomp 2024(<span style="color:red">CCF A</span>).
