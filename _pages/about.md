@@ -14,3 +14,9 @@ My research interests mainly focus on _IoT Systems_, _Edge Computing_, and _LLM_
 E-mail: xiaokj [at] zju [dot] edu [dot] cn
 
 Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/)
+
+## News
+- **[Sep 2023]** Joined ZJU EmNets Lab as a PhD researcher.
+
+## Publications
+- **Kaijie Xiao**, Yi Gao, Wei Dong.
