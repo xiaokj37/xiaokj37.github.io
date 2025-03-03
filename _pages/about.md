@@ -23,4 +23,4 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
 
 ## Publications
 - **Kaijie Xiao**, Yi Gao, Fu Li, Weifeng Xu, Pengzhi Chen and Wei Dong, ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization, accepted to ACM IMWUT 2024 and Ubicomp 2025 <span style="color:red">(CCF A)</span>. [[PDF]](https://dlnext.acm.org/doi/10.1145/3699731)
-- Yi Gao, **Kaijie Xiao**, Fu Li, Weifeng Xu, Jiaming Huang and Wei Dong, ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs, accepted to ACM IMWUT/Ubicomp 2024 <span style="color:red">(CCF A)</span>. [[PDF]]([https://www.ubicomp.org/ubicomp-iswc-2024/](https://dl.acm.org/doi/abs/10.1145/3678585)) [[Code]](https://github.com/zju-emnets/ChatIoT)
+- Yi Gao, **Kaijie Xiao**, Fu Li, Weifeng Xu, Jiaming Huang and Wei Dong, ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs, accepted to ACM IMWUT/Ubicomp 2024 <span style="color:red">(CCF A)</span>. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3678585) [[Code]](https://github.com/zju-emnets/ChatIoT)
