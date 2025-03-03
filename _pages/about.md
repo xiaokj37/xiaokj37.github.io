@@ -14,7 +14,6 @@ My research interests mainly focus on _IoT Systems_, _Edge Computing_, and _LLM_
 E-mail: xiaokj [at] zju [dot] edu [dot] cn
 
 Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnets.cn/)
-![image](https://github.com/user-attachments/assets/7cb37b7b-39a4-4b6b-9e43-3bce71d0ba8b)
 
 
 A data-driven personal website
