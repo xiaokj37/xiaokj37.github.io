@@ -30,7 +30,7 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
   - Conferences: IMWUT/UbiComp 2025
 
 ## News
-- **[August 2025]** Our Paper: "**An LLM-Assisted IoT Agent System for Heterogeneous User Tasks**" is accepted by **MobiCom 2025 Posters**.
+- **[August 2025]** Our Paper: "**An LLM-Assisted IoT Agent System for Heterogeneous User Tasks**" is accepted by **MobiCom 2025 Posters**, congrats to Yang Zhang!
 - **[Sep 2024]** Our Paper: "**ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization**" is accepted by **IMWUT 2024** and will be presented at **UbiComp 2025**.
 - **[July 2024]** Attended **UbiComp 2024** held in Melbourne, Australia. [[Conference Link]](https://www.ubicomp.org/ubicomp-iswc-2024/).
 - **[July 2024]** Our Paper: "**ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs**" is accepted by **IMWUT 2024** and will be presented at **UbiComp 2024**.
