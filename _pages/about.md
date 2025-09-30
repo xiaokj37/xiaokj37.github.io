@@ -27,7 +27,7 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
 
 ## Academic Services
 - **Reviewer**
-  - Conferences: IMWUT/UbiComp 2025
+  - Conferences: IMWUT/UbiComp 2025、CHI 2026
 
 ## News
 - **[August 2025]** Our Paper: "**Poster: An LLM-Assisted IoT Agent System for Heterogeneous User Tasks**" is accepted by **MobiCom 2025 Posters**, congrats to Yang Zhang!
@@ -45,4 +45,4 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
 - 2024.12:  Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024
 
 ## Student Work
-- [2024.09 - Now]: Presidium Member of Doctoral Student Association, College of Computer Science and Technology, Zhejiang University（获评浙江大学十佳研博会）
+- 2024.09 - 2025.09: Presidium Member of Doctoral Student Association, College of Computer Science and Technology, Zhejiang University（获评浙江大学十佳研博会）
