@@ -27,7 +27,7 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
 
 ## Academic Services
 - **Reviewer**
-  - Conferences: IMWUT/UbiComp 2025、CHI 2026
+  - Conferences: UbiComp(IMWUT) 2025/2026、CHI 2026
 
 ## News
 - **[August 2025]** Our Paper: "**Poster: An LLM-Assisted IoT Agent System for Heterogeneous User Tasks**" is accepted by **MobiCom 2025 Posters**, congrats to Yang Zhang!
