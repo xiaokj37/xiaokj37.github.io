@@ -30,6 +30,7 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
   - Conferences: UbiComp(IMWUT) 2025/2026、CHI 2026
 
 ## News
+- **[May 2026]** Received funding from the Zhejiang Provincial Applied Basic Research Program under the Xinmiao Project (浙江省应用基础研究计划“新苗”项目).
 - **[Dec 2025]** Our Paper: "**LLM-Driven Automated IoT Application Development Technology**"(大模型驱动的自动化物联网应用开发技术) is accepted by **CCCF 2025**.
 - **[Oct 2025]** Attended **UbiComp 2025** held in Espoo, Finland. [[Conference Link]](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/).
 - **[August 2025]** Our Paper: "**Poster: An LLM-Assisted IoT Agent System for Heterogeneous User Tasks**" is accepted by **MobiCom 2025 Posters**, congrats to Yang Zhang!
