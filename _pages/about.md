@@ -30,6 +30,8 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
   - Conferences: UbiComp(IMWUT) 2025/2026、CHI 2026
 
 ## News
+- **[July 2026]** Our Paper: "**UniOVA: Universal On-demand Video Analytics with Edge-Cloud Collaborative Multimodal LLM**" is accepted by **IMWUT 2026** and will be presented at **UbiComp 2026**.
+- **[July 2026]** Our Paper: "**GRACE: QoE-Oriented Dependency-Aware IoT Application Deployment Algorithm(面向QoE优化的依赖关系感知物联网应用部署算法)**" is accepted by **CWSN 2026**.
 - **[May 2026]** Received funding from the Zhejiang Provincial Applied Basic Research Program under the Xinmiao Project (浙江省应用基础研究计划“新苗”项目).
 - **[Dec 2025]** Our Paper: "**LLM-Driven Automated IoT Application Development Technology**"(大模型驱动的自动化物联网应用开发技术) is accepted by **CCCF 2025**.
 - **[Oct 2025]** Attended **UbiComp 2025** held in Espoo, Finland. [[Conference Link]](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/).
@@ -40,6 +42,8 @@ Our Lab: [ <font color='orange'> EmNets research group</font>](https://www.emnet
 - **[Sep 2023]** Joined ZJU EmNets Lab as a PhD researcher.
 
 ## Publications
+- **Kaijie Xiao**, Yi Gao<sup>✉</sup> and Wei Dong, UniOVA: Universal On-demand Video Analytics with Edge-Cloud Collaborative Multimodal LLM, accepted to ACM IMWUT 2026 and UbiComp 2026 <span style="color:red">(CCF A)</span>.
+- **Kaijie Xiao**, Jiamei Lv, Borui Li, Yi Gao and Wei Dong<sup>✉</sup>, GRACE: QoE-Oriented Dependency-Aware IoT Application Deployment Algorithm(面向QoE优化的依赖关系感知物联网应用部署算法), accepted to CWSN 2026.
 - Yi Gao, Wei Dong<sup>✉</sup>, **Kaijie Xiao** and Kaijie Gong, LLM-Driven Automated IoT Application Development Technology, accepted to Computing Magazine of the CCF 2025. [[PDF]](https://cccf.hrbeu.edu.cn/en/article/doi/10.11991/cccf.202511106) 
 - Yang Zhang, **Kaijie Xiao**, Yi Gao and Wei Dong<sup>✉</sup>, Poster: An LLM-Assisted IoT Agent System for Heterogeneous User Tasks, accepted to ACM MobiCom 2025<span style="color:red">(CCF A)</span> Posters. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3680207.3765689)
 - **Kaijie Xiao**, Yi Gao<sup>✉</sup>, Fu Li, Weifeng Xu, Pengzhi Chen and Wei Dong<sup>✉</sup>, ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization, accepted to ACM IMWUT 2024 and Ubicomp 2025 <span style="color:red">(CCF A)</span>. [[PDF]](https://dlnext.acm.org/doi/10.1145/3699731)
