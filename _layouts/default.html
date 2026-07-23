@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.url == "/" %} class="home-redesign-page"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -26,6 +26,9 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    {% if page.url == "/" %}
+      <script src="{{ base_path }}/assets/js/homepage-publications.js"></script>
+    {% endif %}
 
   </body>
 </html>

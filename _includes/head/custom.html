@@ -11,6 +11,9 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+{% if page.url == "/" %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/homepage-redesign.css"/>
+{% endif %}
 
 
 <!-- Support for MatJax -->

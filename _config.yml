@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Kaijie Xiao's Personal Homepage"
+masthead_title           : "Homepage"
 title_separator          : "-"
 name                     : &name "Kaijie Xiao"
 description              : &description "3rd year PhD at ZJU"
