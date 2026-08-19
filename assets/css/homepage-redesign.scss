@@ -358,6 +358,8 @@
 }
 
 .publication-feature-card {
+  display: block;
+  width: 100%;
   padding: 0.85rem 1rem;
   background: var(--home-surface);
   border: 1px solid #dcdedf;
