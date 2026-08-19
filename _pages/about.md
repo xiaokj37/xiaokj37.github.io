@@ -8,7 +8,7 @@ redirect_from:
 
 <section class="home-section home-intro" id="about-me">
   <p class="home-intro__lead">
-    Hi, I'm currently a 3rd year PhD student in the
+    Hi, I'm currently a 4th year PhD student in the
     <a href="http://www.cs.zju.edu.cn/">College of Computer Science and Technology</a>
     at <a href="https://www.zju.edu.cn">Zhejiang University (ZJU)</a>, and expected
     to get the PhD degree in 2028. I'm co-advised by
@@ -147,7 +147,6 @@ redirect_from:
     aria-labelledby="core-publications-tab"
   >
     <article class="publication-feature-card">
-      <div class="publication-media-placeholder" aria-label="Publication image placeholder"></div>
       <div class="publication-feature-card__content">
         <h3 class="publication-feature-card__title">UniOVA: Universal On-demand Video Analytics with Edge-Cloud Collaborative Multimodal LLM</h3>
         <p class="publication-authors"><strong class="publication-me">Kaijie Xiao</strong>, Yi Gao<sup>✉</sup>, Wei Dong</p>
@@ -164,7 +163,6 @@ redirect_from:
     </article>
 
     <article class="publication-feature-card">
-      <div class="publication-media-placeholder" aria-label="Publication image placeholder"></div>
       <div class="publication-feature-card__content">
         <h3 class="publication-feature-card__title">GRACE: QoE-Oriented Dependency-Aware IoT Application Deployment Algorithm</h3>
         <p class="publication-authors"><strong class="publication-me">Kaijie Xiao</strong>, Jiamei Lv, Borui Li, Yi Gao, Wei Dong<sup>✉</sup></p>
@@ -181,7 +179,6 @@ redirect_from:
     </article>
 
     <article class="publication-feature-card">
-      <div class="publication-media-placeholder" aria-label="Publication image placeholder"></div>
       <div class="publication-feature-card__content">
         <h3 class="publication-feature-card__title">ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization</h3>
         <p class="publication-authors"><strong class="publication-me">Kaijie Xiao</strong>, Yi Gao<sup>✉</sup>, Fu Li, Weifeng Xu, Pengzhi Chen, Wei Dong<sup>✉</sup></p>
@@ -198,7 +195,6 @@ redirect_from:
     </article>
 
     <article class="publication-feature-card">
-      <div class="publication-media-placeholder" aria-label="Publication image placeholder"></div>
       <div class="publication-feature-card__content">
         <h3 class="publication-feature-card__title">ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs</h3>
         <p class="publication-authors">Yi Gao, <strong class="publication-me">Kaijie Xiao</strong>, Fu Li, Weifeng Xu, Jiaming Huang, Wei Dong<sup>✉</sup></p>
