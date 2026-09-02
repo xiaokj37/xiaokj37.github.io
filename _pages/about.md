@@ -46,6 +46,11 @@ redirect_from:
   <div class="news-panel">
     <ul class="news-list">
       <li>
+        <time class="news-date" datetime="2026-09">2026.09</time>
+        <span class="news-marker" aria-hidden="true">🎉</span>
+        <span class="news-content">Our work <strong>Lynceus: Lightweight Visual Evidence Preservation and Retrieval for Accurate Live AI on Smart Glasses</strong> is <strong>conditionally accepted</strong> to <strong>ACM SenSys 2027</strong>. Thanks to all collaborators!</span>
+      </li>
+      <li>
         <time class="news-date" datetime="2026-07">2026.07</time>
         <span class="news-marker" aria-hidden="true">🎉</span>
         <span class="news-content">Our paper <strong>IoTClaw: A Ubiquitous Agentic Framework for Heterogeneous IoT</strong> is accepted by <strong>UbiComp 2026 Posters</strong>, congrats to Haotian Zhong!</span>
@@ -148,12 +153,28 @@ redirect_from:
   >
     <article class="publication-feature-card">
       <div class="publication-feature-card__content">
+        <h3 class="publication-feature-card__title">Lynceus: Lightweight Visual Evidence Preservation and Retrieval for Accurate Live AI on Smart Glasses</h3>
+        <p class="publication-authors"><strong class="publication-me">Kaijie Xiao</strong>, Wenhao Zhou, Haotian Zhong, Yang Liu, Yi Gao, Wei Dong</p>
+        <p class="publication-summary">Lightweight visual evidence preservation and retrieval for accurate live AI on smart glasses.</p>
+        <div class="publication-meta-row">
+          <span class="publication-venue">ACM SenSys 2027</span>
+          <span class="publication-classification publication-classification--conference">Conference · CCF B</span>
+          <span class="publication-links">
+            <a class="publication-link" href="#publications" title="PDF link pending">[PDF]</a>
+            <a class="publication-link" href="#publications" title="Code link pending">[Code]</a>
+          </span>
+        </div>
+      </div>
+    </article>
+
+    <article class="publication-feature-card">
+      <div class="publication-feature-card__content">
         <h3 class="publication-feature-card__title">UniOVA: Universal On-demand Video Analytics with Edge-Cloud Collaborative Multimodal LLM</h3>
         <p class="publication-authors"><strong class="publication-me">Kaijie Xiao</strong>, Yi Gao<sup>✉</sup>, Wei Dong</p>
         <p class="publication-summary">Universal on-demand video analytics through edge–cloud collaboration and multimodal LLMs.</p>
         <div class="publication-meta-row">
           <span class="publication-venue">IMWUT/UbiComp 2026</span>
-          <span class="publication-classification publication-classification--journal">Journal · CCF A</span>
+          <span class="publication-classification publication-classification--conference">Conference · CCF A</span>
           <span class="publication-links">
             <a class="publication-link" href="#publications" title="PDF link pending">[PDF]</a>
             <a class="publication-link" href="#publications" title="Code link pending">[Code]</a>
@@ -185,7 +206,7 @@ redirect_from:
         <p class="publication-summary">Contextual chatting-to-camera with interest-oriented video summarization.</p>
         <div class="publication-meta-row">
           <span class="publication-venue">IMWUT 2024 · UbiComp 2025</span>
-          <span class="publication-classification publication-classification--journal">Journal · CCF A</span>
+          <span class="publication-classification publication-classification--conference">Conference · CCF A</span>
           <span class="publication-links">
             <a class="publication-link" href="https://dlnext.acm.org/doi/10.1145/3699731">[PDF]</a>
             <a class="publication-link" href="#publications" title="Code link pending">[Code]</a>
@@ -201,7 +222,7 @@ redirect_from:
         <p class="publication-summary">Zero-code generation of trigger-action programs for heterogeneous IoT devices.</p>
         <div class="publication-meta-row">
           <span class="publication-venue">IMWUT/UbiComp 2024</span>
-          <span class="publication-classification publication-classification--journal">Journal · CCF A</span>
+          <span class="publication-classification publication-classification--conference">Conference · CCF A</span>
           <span class="publication-links">
             <a class="publication-link" href="https://dl.acm.org/doi/abs/10.1145/3678585">[PDF]</a>
             <a class="publication-link" href="https://github.com/zju-emnets/ChatIoT">[Code]</a>
@@ -220,6 +241,16 @@ redirect_from:
   >
     <ul class="full-publication-list">
       <li class="full-publication-item">
+        <span class="publication-badge">ACM SenSys 2027</span>
+        <span class="publication-badge publication-badge--conference">Conference · CCF B</span>
+        <span class="publication-list-title">Lynceus: Lightweight Visual Evidence Preservation and Retrieval for Accurate Live AI on Smart Glasses</span><br>
+        <span class="publication-list-authors"><strong class="publication-me">Kaijie Xiao</strong>, Wenhao Zhou, Haotian Zhong, Yang Liu, Yi Gao, Wei Dong.</span>
+        <span class="publication-list-links">
+          <a href="#publications" title="PDF link pending">[PDF]</a>
+          <a href="#publications" title="Code link pending">[Code]</a>
+        </span>
+      </li>
+      <li class="full-publication-item">
         <span class="publication-badge">UbiComp 2026</span>
         <span class="publication-badge publication-badge--poster">Poster</span>
         <span class="publication-list-title">IoTClaw: A Ubiquitous Agentic Framework for Heterogeneous IoT</span><br>
@@ -231,7 +262,7 @@ redirect_from:
       </li>
       <li class="full-publication-item">
         <span class="publication-badge">IMWUT/UbiComp 2026</span>
-        <span class="publication-badge publication-badge--journal">Journal · CCF A</span>
+        <span class="publication-badge publication-badge--conference">Conference · CCF A</span>
         <span class="publication-list-title">UniOVA: Universal On-demand Video Analytics with Edge-Cloud Collaborative Multimodal LLM</span><br>
         <span class="publication-list-authors"><strong class="publication-me">Kaijie Xiao</strong>, Yi Gao<sup>✉</sup>, Wei Dong.</span>
         <span class="publication-list-links">
@@ -271,7 +302,7 @@ redirect_from:
       </li>
       <li class="full-publication-item">
         <span class="publication-badge">IMWUT 2024 / UbiComp 2025</span>
-        <span class="publication-badge publication-badge--journal">Journal · CCF A</span>
+        <span class="publication-badge publication-badge--conference">Conference · CCF A</span>
         <span class="publication-list-title">ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization</span><br>
         <span class="publication-list-authors"><strong class="publication-me">Kaijie Xiao</strong>, Yi Gao<sup>✉</sup>, Fu Li, Weifeng Xu, Pengzhi Chen, Wei Dong<sup>✉</sup>.</span>
         <span class="publication-list-links">
@@ -281,7 +312,7 @@ redirect_from:
       </li>
       <li class="full-publication-item">
         <span class="publication-badge">IMWUT/UbiComp 2024</span>
-        <span class="publication-badge publication-badge--journal">Journal · CCF A</span>
+        <span class="publication-badge publication-badge--conference">Conference · CCF A</span>
         <span class="publication-list-title">ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs</span><br>
         <span class="publication-list-authors">Yi Gao, <strong class="publication-me">Kaijie Xiao</strong>, Fu Li, Weifeng Xu, Jiaming Huang, Wei Dong<sup>✉</sup>.</span>
         <span class="publication-list-links">
