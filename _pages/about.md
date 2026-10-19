@@ -46,7 +46,7 @@ redirect_from:
   <div class="news-panel">
     <ul class="news-list">
       <li>
-        <time class="news-date" datetime="2026-10-12">2026.10.12</time>
+        <time class="news-date" datetime="2026-10">2026.10</time>
         <span class="news-marker" aria-hidden="true">🏆</span>
         <span class="news-content">Our team received the <strong>Outstanding Award</strong> at the <strong>CUHK-X Multimodal Human Activity Challenge 2026</strong>, as one of the <strong>Top 6 finalist teams</strong>!</span>
       </li>
@@ -384,7 +384,7 @@ redirect_from:
   <div class="detail-grid">
     <div class="detail-card detail-card--wide">
       <ul>
-        <li><strong>Outstanding Award</strong>, CUHK-X Multimodal Human Activity Challenge 2026 (<strong>Top 6 finalist teams</strong>).</li>
+        <li><strong>2026.10:</strong> <strong>Outstanding Award</strong>, CUHK-X Multimodal Human Activity Challenge 2026 (<strong>Top 6 finalist teams</strong>).</li>
         <li><strong>2025.12:</strong> OPPO BENFEN Scholarship (OPPO“本分”奖学金), 2025.</li>
         <li><strong>2025.12:</strong> Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2025.</li>
         <li><strong>2024.12:</strong> Outstanding Graduate Student Scholarship, Merit Graduate Student Award, and Outstanding Graduate Student Cadre at Zhejiang University (浙江大学优秀研究生，五好研究生，优秀研究生干部), 2024.</li>
@@ -401,6 +401,8 @@ redirect_from:
   <div class="detail-grid">
     <div class="detail-card detail-card--wide">
       <ul>
+        <li><strong>2026.10:</strong> <strong>UniOVA: Universal On-demand Video Analytics with Edge-Cloud Collaborative Multimodal LLM</strong> — Invited Talk at UbiComp 2026, Shanghai, China.</li>
+        <li><strong>2026.10:</strong> <strong>FalconSense: Efficient Multimodal Human Action Recognition</strong> — Invited Talk at UbiComp 2026, Shanghai, China.</li>
         <li><strong>2025.10:</strong> <strong>ChatCam: Embracing LLMs for Contextual Chatting-to-Camera with Interest-Oriented Video Summarization</strong> — Invited Talk at <a href="https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/">UbiComp 2025</a>, Espoo, Finland.</li>
         <li><strong>2024.07:</strong> <strong>ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs</strong> — Invited Talk at <a href="https://www.ubicomp.org/ubicomp-iswc-2024/">UbiComp 2024</a>, Melbourne, Australia.</li>
       </ul>
