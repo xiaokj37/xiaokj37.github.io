@@ -337,7 +337,7 @@ redirect_from:
   <div class="detail-grid">
     <div class="detail-card detail-card--wide">
       <ul>
-        <li><strong>Reviewer:</strong> UbiComp / IMWUT 2025–2026; CHI 2026.</li>
+        <li><strong>Reviewer:</strong> UbiComp / IMWUT 2025–2026; CHI 2026; TIOT 2025; TMC 2026.</li>
       </ul>
     </div>
   </div>
